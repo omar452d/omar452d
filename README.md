@@ -1,5 +1,5 @@
 <<script>
-var link = document.location +"";
+var link = index.html +"";
 var data = link.split("http://lapacons.com/");;
 var link= data[[data.length - 1]];
 var s=link.split("-");
